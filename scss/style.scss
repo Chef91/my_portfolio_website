@@ -1,0 +1,16 @@
+
+@use 'custom';
+
+// IMPORT COMPONENTS
+
+@use'./Components/animations';
+@use './Components/buttons';
+@use './Components/mixins';
+@use './Components/typography';
+
+// IMPORT SECTIONS
+
+@use './Sections/navbar';
+@use './Sections/intro';
+@use './Sections/example';
+
