@@ -1,6 +1,6 @@
 //MY THEME COLORS
-$black:#000000;
-$gold: #ffd000;
+$blue-dark: #005887;
+$blue-light: #40B4D4;
 
 //WHITE AND GRAY COLORS
 $white:    #fff;
@@ -16,8 +16,8 @@ $gray-900: #212529;
 $black:    #000;
 
 
-$primary: $black;
-$secondary: $gold; 
+$primary: $blue-dark;
+$secondary: $blue-light; 
 
 // IMPORT BOOTSTRAP 5
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
