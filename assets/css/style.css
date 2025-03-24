@@ -11850,8 +11850,7 @@ textarea.form-control-lg {
   font-weight: 500;
   margin: 0;
   border: 0.1rem solid rgba(255, 255, 255, 0.6);
-  top: 50%;
-  right: 5px;
+  background-color: #fff;
 }
 .btn-rounded span {
   position: absolute;
@@ -11862,6 +11861,16 @@ textarea.form-control-lg {
   right: 5px;
   transform: translateY(-50%);
   border-radius: 50%;
+}
+.btn-rounded span i {
+  color: #fff;
+  font-size: 1rem;
+  line-height: 2.5rem;
+}
+
+span:hover {
+  background: linear-gradient(to right, rgba(0, 88, 135, 0.95), rgba(64, 180, 212, 0.95));
+  color: #fff;
 }
 
 .menu {
