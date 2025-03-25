@@ -11846,11 +11846,21 @@ textarea.form-control-lg {
 }
 .btn-rounded {
   position: relative;
-  padding: 0.5rem 3.375rem 0.5rem 1.25rem;
-  font-weight: 500;
+  padding: 0.6rem 3.375rem 0.6rem 1.25rem;
+  font-weight: 600;
   margin: 0;
   border: 0.1rem solid rgba(255, 255, 255, 0.6);
   background-color: #fff;
+}
+@media (max-width: 575.98px) {
+  .btn-rounded {
+    display: none;
+  }
+}
+@media (max-width: 991.98px) {
+  .btn-rounded {
+    display: none;
+  }
 }
 .btn-rounded span {
   position: absolute;
@@ -11867,10 +11877,25 @@ textarea.form-control-lg {
   font-size: 1rem;
   line-height: 2.5rem;
 }
-
-span:hover {
-  background: linear-gradient(to right, rgba(0, 88, 135, 0.95), rgba(64, 180, 212, 0.95));
+.btn-rounded:hover {
+  background: linear-gradient(to right, rgba(64, 180, 212, 0.95), rgba(0, 88, 135, 0.95));
   color: #fff;
+}
+.btn-rounded:hover span {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.display-2 {
+  margin-bottom: 1rem;
+  text-transform: capitalize;
+}
+.display-2--intro {
+  display: inline-block;
+  font-weight: 700;
+}
+.display-2--discription {
+  font-size: 1ren;
+  display: block;
 }
 
 .menu {
@@ -11883,6 +11908,12 @@ span:hover {
   color: #fff;
   text-transform: capitalize;
   font-weight: 600;
+}
+
+@media (min-width: 992px) {
+  .contact {
+    display: none;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

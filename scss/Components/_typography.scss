@@ -1,0 +1,15 @@
+@use '../custom' as *;
+@use './mixins' as *;
+
+.display-2  {
+  margin-bottom: 1rem;
+  text-transform: capitalize;
+  &--intro  {
+    display: inline-block;
+    font-weight: 700;
+  }
+  &--discription  {
+    font-size: 1ren;
+    display: block;
+  }
+}

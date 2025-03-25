@@ -12,3 +12,8 @@
       font-weight: 600;
     }
 }
+.contact  {
+  @include media-breakpoint-up(lg) {
+    display: none;
+  }
+}
