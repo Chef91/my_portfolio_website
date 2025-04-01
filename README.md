@@ -10,7 +10,7 @@ Welcome to my portfolio website repository. This project was made for me to both
 - I do not have any intentions to claim myself to be a professional. I do this as a hobby and if it helps me venture deeper into programming or gain a job that would be cool, but i do this for the joy of having hobbies outside of my job.
 
 ## Snapshots
-<h2>4.1.2024</h2>
-<img src="https://imgur.com/HC6UfQT" alt="snapshot-1">
+- 4.1.2024
+<img src="https://imgur.com/a/qxUrQVD" alt="snapshot-1">
 <br>
 <p>This is the intro section. The art used is from canva and a free graphics site. The button will have a pulse effect and lead to a youtube video on auto-play.</p>
