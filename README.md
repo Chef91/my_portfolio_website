@@ -11,6 +11,6 @@ Welcome to my portfolio website repository. This project was made for me to both
 
 ## Snapshots
 - 4.1.2024
-<img src="https://imgur.com/a/qxUrQVD" alt="snapshot-1">
+![Screenshot](https://imgur.com/a/qxUrQVD)
 <br>
 <p>This is the intro section. The art used is from canva and a free graphics site. The button will have a pulse effect and lead to a youtube video on auto-play.</p>
