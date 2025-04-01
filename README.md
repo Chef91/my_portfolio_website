@@ -12,4 +12,5 @@ Welcome to my portfolio website repository. This project was made for me to both
 ## Snapshots
 This section will contain snapshots of the website for those who just want a quick view but are not looking to actually download the repo or go to the official website to look around. It's nice to have some quick snapshots for those who are busy and just skimming through for a few minutes to see how my project is going.
 <br>
+<br>
 ![Screenshot](screenshots/screenshot1.png)
