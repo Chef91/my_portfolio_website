@@ -10,7 +10,6 @@ Welcome to my portfolio website repository. This project was made for me to both
 - I do not have any intentions to claim myself to be a professional. I do this as a hobby and if it helps me venture deeper into programming or gain a job that would be cool, but i do this for the joy of having hobbies outside of my job.
 
 ## Snapshots
-- 4.1.2024
-![Screenshot](/home/masterchef/Documents/folder_git/my_portfolio_website/screenshots/screenshot1.png)
+This section will contain snapshots of the website for those who just want a quick view but are not looking to actually download the repo or go to the official website to look around. It's nice to have some quick snapshots for those who are busy and just skimming through for a few minutes to see how my project is going.
 <br>
-<p>This is the intro section. The art used is from canva and a free graphics site. The button will have a pulse effect and lead to a youtube video on auto-play.</p>
+![Screenshot](screenshots/screenshot1.png)
