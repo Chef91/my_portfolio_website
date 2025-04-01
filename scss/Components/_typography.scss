@@ -11,10 +11,33 @@
     font-family: Permanent Marker, serif;
   }
   &--description  {
-    font-size: 1.1rem;
+    font-size: 1rem;
     display: block;
     margin: 1.4rem;
     font-weight: 400;
     font-family: "Poppins", sans-serif;
+    @include media-breakpoint-up(lg) {
+      font-size: 1.2rem;
+      display: inline-block;
+    }
   }
+}
+.heading-line::before  {
+  content: "";
+  width: 15rem;
+  height: 0.2rem;
+  display: block;
+  margin: 0 auto;
+  background-color: $primary;
+}
+.heading-line::after  {
+  content: "";
+  width: 8rem;
+  height: 0.2rem;
+  padding-top: 0.5rem;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  background-color: $primary;
+  border-radius: 0 0 0.8rem 0.8rem;
 }

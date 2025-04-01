@@ -11846,8 +11846,8 @@ textarea.form-control-lg {
 }
 @keyframes pulse-border {
   0% {
-    transform: scale(1);
-    opacity: 1;
+    transform: scale(0.8);
+    opacity: 0.8;
   }
   50% {
     transform: scale(1.5);
@@ -11910,11 +11910,38 @@ textarea.form-control-lg {
   font-family: Permanent Marker, serif;
 }
 .display-2--description {
-  font-size: 1.1rem;
+  font-size: 1rem;
   display: block;
   margin: 1.4rem;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
+}
+@media (min-width: 992px) {
+  .display-2--description {
+    font-size: 1.2rem;
+    display: inline-block;
+  }
+}
+
+.heading-line::before {
+  content: "";
+  width: 15rem;
+  height: 0.2rem;
+  display: block;
+  margin: 0 auto;
+  background-color: #005887;
+}
+
+.heading-line::after {
+  content: "";
+  width: 8rem;
+  height: 0.2rem;
+  padding-top: 0.5rem;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  background-color: #005887;
+  border-radius: 0 0 0.8rem 0.8rem;
 }
 
 .menu {
@@ -11937,7 +11964,7 @@ textarea.form-control-lg {
 
 .intro-section {
   background: linear-gradient(to right, rgba(0, 88, 135, 0.95), rgba(64, 180, 212, 0.95));
-  padding: 5rem 0 0 0;
+  padding: 1rem 0 0 0;
   width: 100%;
   height: 100%;
 }
@@ -11968,13 +11995,13 @@ textarea.form-control-lg {
   animation: pulse-border 1.5s linear infinite;
 }
 .border-animation--border-1 {
-  animation-delay: 1s;
+  animation-delay: 0.5s;
 }
 .border-animation--border-2 {
-  animation-delay: 1.5s;
+  animation-delay: 1s;
 }
 .border-animation--border-3 {
-  animation-delay: 2s;
+  animation-delay: 1.5s;
 }
 
 /*# sourceMappingURL=style.css.map */

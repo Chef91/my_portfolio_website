@@ -4,9 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Graham | Front-End Developer | Web Developer | Portfolio Website</title>
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="./assets/vendors/css/glightbox.min.css">
   <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="assets/css/fontawesome.css">
+  <link rel="stylesheet" href="./assets/css/fontawesome.css">
   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Permanent+Marker&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -53,7 +54,7 @@
         <div class="col-md-6 intros text-end">
           <div class="video-box">
             <img src="./Images/coding.png" class="img-fluid" alt="video image">
-            <a href="# " class="">
+            <a href="# " class="glightbox">
               <span>
                 <i class="fas fa-play-circle"></i>
               </span>
@@ -67,7 +68,68 @@
     </div>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ffffff" fill-opacity="1" d="M0,288L80,250.7C160,213,320,139,480,144C640,149,800,235,960,256C1120,277,1280,235,1360,213.3L1440,192L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
   </section>
-  
+  <section id="#" class="#">
+    <div class="container">
+      <div class="row text-center">
+        <h4 class="fw-bold lead mb-3">My Most Recent Projects</h4>
+        <div class="heading-line mb-5"></div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+            <img src="./Images/Branding/G-logo.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Two Drunk Chefs</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <a href="#" class="btn btn-primary">View Website</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+            <img src="./Images/Branding/G-logo.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Chef's Dungeon TTRPG</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <a href="#" class="btn btn-primary">View Website</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+            <img src="./Images/Branding/G-logo.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Helping Hands Mover</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <a href="#" class="btn btn-primary">View Website</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+            <img src="./Images/Branding/G-logo.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Savage House Gaming</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <a href="#" class="btn btn-primary">View Website</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script src="./assets/vendors/js/glightbox.min.js"></script>
+  <script type="text/javascript">
+    const lightbox = GLightbox({
+      'href': 'https://www.youtube.com/watch?v=iJKCj8uAHz8&t=5620s',
+      'type': 'video',
+      'source': 'youtube',
+      'width': 900,
+      'autoPlayVideos': 'True'
+});
+  </script>
   <script src="./assets/js/bootstrap.bundle.js"></script>
 </body>
 </html>
