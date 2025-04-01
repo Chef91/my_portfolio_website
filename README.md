@@ -11,6 +11,6 @@ Welcome to my portfolio website repository. This project was made for me to both
 
 ## Snapshots
 - 4.1.2024
-![Screenshot](https://imgur.com/a/qxUrQVD)
+![Screenshot](/home/masterchef/Documents/folder_git/my_portfolio_website/screenshots/screenshot1.png)
 <br>
 <p>This is the intro section. The art used is from canva and a free graphics site. The button will have a pulse effect and lead to a youtube video on auto-play.</p>
