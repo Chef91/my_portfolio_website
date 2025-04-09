@@ -10,8 +10,8 @@ Welcome to my portfolio website repository. This project was made for me to both
 - I do not have any intentions to claim myself to be a professional. I do this as a hobby and if it helps me venture deeper into programming or gain a job that would be cool, but i do this for the joy of having hobbies outside of my job.
 
 ## Snapshots
-- 4.1.2024
+- 4.1.2025
 ![Screenshot](screenshots/screenshot1.png)
 <br>
 <br>
-![Screenshot](screenshots/screenshot1.png)
+- 4.9.2025
