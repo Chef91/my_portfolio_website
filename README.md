@@ -10,7 +10,8 @@ Welcome to my portfolio website repository. This project was made for me to both
 - I do not have any intentions to claim myself to be a professional. I do this as a hobby and if it helps me venture deeper into programming or gain a job that would be cool, but i do this for the joy of having hobbies outside of my job.
 
 ## Snapshots
-This section will contain snapshots of the website for those who just want a quick view but are not looking to actually download the repo or go to the official website to look around. It's nice to have some quick snapshots for those who are busy and just skimming through for a few minutes to see how my project is going.
+- 4.1.2024
+![Screenshot](screenshots/screenshot1.png)
 <br>
 <br>
 ![Screenshot](screenshots/screenshot1.png)
