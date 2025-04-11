@@ -1,8 +1,8 @@
 #ignoring specific files
-theming-kit.html
-package-lock.json
-package.json
+*theming-kit.html
+*package-lock.json
+*package.json
 
 #ignoring specific folders
-/node_modules
-/assets
+*/node_modules
+*/assets
