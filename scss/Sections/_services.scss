@@ -1,3 +1,33 @@
 @use '../custom' as *;
 @use '../Components/mixins' as *;
 
+/*SKILLS*/
+.html-logo  {
+  height: 5em;
+  width: 5em;
+  border: 2px solid rgba($color: #000000, $alpha: 1.0);
+}
+.css-logo  {
+  height: 4em;
+  width: 4em;
+}
+.bs-logo  {
+  height: 4.5em;
+  width: 5em;
+}
+.sass-logo  {
+  height: 4.5em;
+  width: 5em;
+}
+.js-logo  {
+  height: 5.2em;
+  width: 4em;
+}
+.php-logo  {
+  height: 4em;
+  width: 4.7em;
+}
+.python-logo  {
+  height: 5em;
+  width: 4em;
+}
