@@ -27,6 +27,10 @@ Welcome to my portfolio website repository. This project was made for me to both
 <br>
 <br>
 <h2>Snapshots/Updates</h2>
+- 4.17.2025
+![screenshot]()
+Added Services section for the website.
+<br>
 - 4.9.2025
 ![Screenshot](screenshots/screenshot2.png)
 Added a section for recent projects

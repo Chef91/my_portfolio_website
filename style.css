@@ -14,3 +14,33 @@ body  {
   width: 100%;
   height: 300px;
 }
+
+/*SERVICES*/
+.html-logo  {
+  height: 5em;
+  width: 5em;
+}
+.css-logo  {
+  height: 4em;
+  width: 4em;
+}
+.bs-logo  {
+  height: 4.5em;
+  width: 5em;
+}
+.sass-logo  {
+  height: 4.5em;
+  width: 5em;
+}
+.js-logo  {
+  height: 5.2em;
+  width: 4em;
+}
+.php-logo  {
+  height: 4em;
+  width: 4.7em;
+}
+.python-logo  {
+  height: 5em;
+  width: 4em;
+}
