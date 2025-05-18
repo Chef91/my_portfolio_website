@@ -13,11 +13,11 @@
   &--description  {
     font-size: 1rem;
     display: block;
-    margin: 1.4rem;
+    margin: 1.5rem;
     font-weight: 400;
     font-family: "Poppins", sans-serif;
     @include media-breakpoint-up(lg) {
-      font-size: 1.2rem;
+      font-size: 1.8rem;
       display: inline-block;
     }
   }
@@ -40,4 +40,7 @@
   margin-bottom: 1rem;
   background-color: $primary;
   border-radius: 0 0 0.8rem 0.8rem;
+}
+.display-3  {
+  font-family: "Poppins", sans-serif;
 }
