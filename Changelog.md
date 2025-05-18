@@ -1,5 +1,9 @@
 # Updates
 
+## 5.18.2025
+- Changed the text for the hero page
+- 
+
 ## 3.25.2025
 - Fixed e-mail button
 - Renamed to e-mail to contact
