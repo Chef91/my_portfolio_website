@@ -11912,13 +11912,13 @@ textarea.form-control-lg {
 .display-2--description {
   font-size: 1rem;
   display: block;
-  margin: 1.4rem;
+  margin: 1.5rem;
   font-weight: 400;
   font-family: "Poppins", sans-serif;
 }
 @media (min-width: 992px) {
   .display-2--description {
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     display: inline-block;
   }
 }
@@ -11942,6 +11942,10 @@ textarea.form-control-lg {
   margin-bottom: 1rem;
   background-color: #005887;
   border-radius: 0 0 0.8rem 0.8rem;
+}
+
+.display-3 {
+  font-family: "Poppins", sans-serif;
 }
 
 .menu {
@@ -12002,6 +12006,43 @@ textarea.form-control-lg {
 }
 .border-animation--border-3 {
   animation-delay: 1.5s;
+}
+
+/*SKILLS*/
+.html-logo {
+  height: 5em;
+  width: 5em;
+  border: 2px solid black;
+}
+
+.css-logo {
+  height: 4em;
+  width: 4em;
+}
+
+.bs-logo {
+  height: 4.5em;
+  width: 5em;
+}
+
+.sass-logo {
+  height: 4.5em;
+  width: 5em;
+}
+
+.js-logo {
+  height: 5.2em;
+  width: 4em;
+}
+
+.php-logo {
+  height: 4em;
+  width: 4.7em;
+}
+
+.python-logo {
+  height: 5em;
+  width: 4em;
 }
 
 /*# sourceMappingURL=style.css.map */
