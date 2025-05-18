@@ -2,7 +2,8 @@
 
 ## 5.18.2025
 - Changed the text for the hero page
-- 
+- Finished up the projects section (needs to be responsive to mobile still)
+- Started working on the services Section
 
 ## 3.25.2025
 - Fixed e-mail button
